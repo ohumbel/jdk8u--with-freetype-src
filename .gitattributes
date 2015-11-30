@@ -1,0 +1,2 @@
+# do not introduce crlf if core.autocrlf should be set globally
+*.m4  eol=lf
